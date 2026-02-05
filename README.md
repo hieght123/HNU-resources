@@ -7,7 +7,7 @@
 
 基于计算机开源精神，我决定给予该资源开源权限，并且希望您若使用也做到开源。**请不要因为您知道该资源而对此收费赚取信息差**，这是很不好的行为。如果您知道有人正在这么做，烦请**提issue**。
 
-有关学业上的问题（如何学习课程，如何缓解焦虑，如何规划学业，如何保研定位等问题）欢迎**提issue**进行交流，我在清华大学等你。
+有关学业上的问题（如何学习课程，如何缓解焦虑，如何规划学业，如何保研定位等问题）欢迎**提issue**进行交流，如果我看到会回复。
 
 感谢湖南大学、湖南大学信息科学与工程学院的培养，感谢A橙学长一路以来对我的帮助，感谢其他在我本科过程中给予我帮助的学长学姐和同级同学们。
 
@@ -18,4 +18,8 @@
 个人主页：https://wolfvoid.github.io/
 
 欢迎友链与联系。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wolfvoid/HNU-resourses&type=date&legend=top-left)](https://www.star-history.com/#wolfvoid/HNU-resourses&type=date&legend=top-left)
 
