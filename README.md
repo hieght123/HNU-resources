@@ -1,23 +1,69 @@
 # HNU-resourses
-这里是甘晴void的HNU课程资源仓库，主要包括所有核心课程、部分通识类课程以及所有工训类课程的期中期末考卷、机考题、作业答案、代码、工程项目、小班讨论等。希望能对你有帮助。
+这里是甘晴void的**HNU课程资源仓库**，主要是**计算机类**（计算机科学与技术，软件工程，人工智能等专业）的核心课程、部分通识类课程以及所有工训类课程的资料，包括期中期末考卷、机考题、作业答案、代码、工程项目、小班讨论等（不包括老师上课使用的PPT以及其他可能引起知识产权/版权问题的资料）。希望以一个经历者的视角帮助各位HNU-CSer们更好地landing，希望能对您有帮助。
 
-如果想要完整地下载本仓库，请至少预留**5GB**磁盘空间，否则会无法完整下载。您可以选择git clone方式（推荐）或者下载zip的方式获取本仓库。
+下载：如果想要完整地下载本仓库，请至少预留**5GB**磁盘空间。您可以选择git clone方式（推荐）或者下载zip的方式获取本仓库。
 
-这里不包括任何HNU老师上课使用的PPT（尊重老师的知识产权以及规避版权问题），所有资料都是对校内学生公开但或许较难找寻或者获取的。
+协议：基于计算机的开源精神，我们公开了本仓库以及资料，并希望您也能做到开源。**请不要因此赚取信息差**。禁止将本仓库或其衍生内容用于付费售卖、付费群、付费文档等行为。如果您知道有人正在这么做，烦请**提issue**告知我们。
 
-基于计算机开源精神，我决定给予该资源开源权限，并且希望您若使用也做到开源。**请不要因为您知道该资源而对此收费赚取信息差**，这是很不好的行为。如果您知道有人正在这么做，烦请**提issue**。
+交流：如果有有关学业上的问题（如何学习课程，如何缓解焦虑，如何规划学业，如何保研定位等问题）欢迎**提issue**，或您对他人的问题有自己的见解，请不吝赐教。我希望能建设成大家互相学习进步的树洞。
 
-有关学业上的问题（如何学习课程，如何缓解焦虑，如何规划学业，如何保研定位等问题）欢迎**提issue**进行交流，如果我看到会回复。
+## 🤝 共建者致谢与召集
 
-感谢湖南大学、湖南大学信息科学与工程学院的培养，感谢A橙学长一路以来对我的帮助，感谢其他在我本科过程中给予我帮助的学长学姐和同级同学们。
+本仓库目前由我个人维护，虽然已涵盖较广泛，但 一门课 ≠ 一个人的视角。不同老师、不同年级、不同方向的考核重点都有差异，因此我非常欢迎各位同学​加入共建，让这份资源更全面、更准确、也更可持续。
 
-如果喜欢本仓库，麻烦点个star与follow。
+您可以贡献什么：
+- 📄 课程历年 期中 / 期末试题（含回忆版）
+- 💻 机考题、实验指导、代码实现
+- 🛠️ 工训 / 课程设计 完整工程文件
+- 📝 小班讨论、复习提纲、备考经验
+- 🐞 对本仓库现有内容的 纠错与补充
 
-效果更佳：配套使用CSDN甘晴void：https://blog.csdn.net/qq_39480177
+如何贡献：
 
-个人主页：https://wolfvoid.github.io/
+- Fork 本仓库​ → 提交 PR（推荐）
+- 或 提 Issue​ 说明你想补充的内容
+- 或 直接联系我（Issue / Discussions）
 
-欢迎友链与联系。
+感谢以下同学对仓库建设的贡献 ❤️  
+（按贡献时间顺序排序，排名不分先后）
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- if there is a @ in <b></b>, replace it with &#8209 -->
+
+<table width="100%" style="table-layout: fixed;">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/A-Y-1"><img src="https://github.com/A-Y-1.png?size=64" width="64" height="64" alt="A-Y-1"/><br /><sub><b>@A&#8209;Y&#8209;1</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Eyre921"><img src="https://github.com/Eyre921.png?size=64" width="64" height="64" alt="Eyre921"/><br /><sub><b>@Eyre921</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SophiaDumb"><img src="https://github.com/SophiaDumb.png?size=64" width="64" height="64" alt="SophiaDumb"/><br /><sub><b>@SophiaDumb</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%">
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+> ✅ **如何出现在列表中？**  
+> 提交一次有效 PR / Issue 即可被收录 🎉
+
+
+
+## 🙏 个人致谢
+
+感谢湖南大学、湖南大学信息科学与工程学院（现湖南大学计算机学院）的培养，特别感谢[A橙学长](https://github.com/A-Y-1)作为首个系统性地整理开源资源的HNU-CSer以及一路以来对我个人的帮助，感谢其他在我本科过程中给予我帮助的老师，学长学姐和同级同学们。如果喜欢本仓库，麻烦点个star🌟与follow❤️，欢迎让更多同学知道。
+
+其他链接： [📖CSDN](https://blog.csdn.net/qq_39480177) &nbsp;&nbsp; [🚀个人主页](https://wolfvoid.github.io/) 欢迎友链与联系。
 
 ## Star History
 
